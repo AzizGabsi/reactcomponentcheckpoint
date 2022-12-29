@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.Card{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  border-style:double;
+  border-color: black;
+  width: 30vw;
+  height: 80vh;
+  margin:auto;
+  margin-top: 50px;
+  
+}
